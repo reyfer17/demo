@@ -1,0 +1,18 @@
+git init 
+
+git commit -m "asasadsadsa"
+
+git status
+
+git log --oneline
+
+git branch
+
+git remote add originnombredelreporemoto
+
+git push
+
+git pull
+
+git fetch
+
